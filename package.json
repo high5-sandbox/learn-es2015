@@ -1,0 +1,23 @@
+{
+  "name": "learn-es2015",
+  "version": "0.0.1",
+  "description": "learn-es2015",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/high5-sandbox/learn-es2015.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/high5-sandbox/learn-es2015/issues"
+  },
+  "homepage": "https://github.com/high5-sandbox/learn-es2015",
+  "devDependencies": {
+    "babel-cli": "^6.6.0"
+  }
+}
